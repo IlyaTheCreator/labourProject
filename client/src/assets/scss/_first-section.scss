@@ -1,0 +1,22 @@
+.first-section {
+    background: #8b2635;
+    color: #e0e2db;
+
+    height: 700px;
+
+    .container {
+        height: 80%;
+        display: flex;
+        align-items: center;
+
+        h1 {
+            font-weight: bold;
+            font-size: 5em;
+            color: #e0e2db;
+        }
+
+        p {
+            font-size: 1.7em;
+        }
+    }
+}
